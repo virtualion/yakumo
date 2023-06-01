@@ -1,0 +1,2 @@
+ID	type	x	z	theta	cover	uniqueCode
+2	10.0x7.5x6.0	1.320605	32.32431	-36.55	1	1

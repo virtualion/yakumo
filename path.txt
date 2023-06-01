@@ -1,0 +1,2 @@
+#root=https://virtualion.github.io/yakumo/
+#prj=yakumo
